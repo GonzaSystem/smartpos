@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 20389531376, CN=smartpos</destination>
+        <uniqueId>2259808125</uniqueId>
+        <generationTime>2019-02-26T13:16:04.761-03:00</generationTime>
+        <expirationTime>2019-02-27T01:16:04.761-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMzM2NDE5NjQzNyIgZ2VuX3RpbWU9IjE1NTExOTc3MDQiIGV4cF90aW1lPSIxNTUxMjQwOTY0Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAzODk1MzEzNzYsIENOPXNtYXJ0cG9zIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMjAzODk1MzEzNzYiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+        <sign>XZgN918GKjzdWlYxeikb/0PuwN1v3cI5oJ9ADicK9EdtYB8oMtyoFfm4++ot+i/gnTIQiqhkT6ZO1wl8PjgZhlTjITfrsYdux9ihCFm/9IYAPGt60d6YXKEIZTaDvxRRqmDVr5y1nYTp90/B8GxyJicp3xnX0YMCepRKSHGK/CI=</sign>
+    </credentials>
+</loginTicketResponse>
